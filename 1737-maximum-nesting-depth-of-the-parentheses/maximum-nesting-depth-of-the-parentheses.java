@@ -10,7 +10,7 @@ class Solution {
         }
          if(ch==')' && i<s.length() ){
             count--;
-            // max = Math.max(max,count); 
+            
         }
        } 
        return max;
